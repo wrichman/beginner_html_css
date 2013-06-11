@@ -1,0 +1,34 @@
+  .box-container {
+  height: 400px;
+  width: 400px;
+  background: grey;
+  /* Step 2: demo relative and absolute positioning */
+  /*position: relative; */
+}
+
+.box {
+  height: 40px;
+  width: 40px;
+  background: lightgreen;
+  border: 1px solid orange;
+  /* Step 1: demo float */
+  /* float:left;*/
+  /* Step 2: show how relative positioning works */
+  /* position: relative; */
+  /* Step 3: show how absolute positioning works */
+   /*position: absolute; */
+}
+
+ /*Step 2/3: show positioning when parent is relative vs absolute*/
+/*.box1 {
+  top: 10px;
+  left: 10px;
+}
+.box2 {
+  top: 50px;
+  left: 50px;
+}
+.box3 {
+  top: 80px;
+  left: 60px;
+}*/
